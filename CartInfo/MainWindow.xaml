@@ -1,0 +1,80 @@
+﻿<Window x:Class="CartInfo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CartInfo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="513.125" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="195*"/>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="34*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="249*"/>
+            <ColumnDefinition Width="320*"/>
+            <ColumnDefinition Width="243*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border 
+            BorderThickness="2" 
+            BorderBrush="black" 
+            Grid.Column="1" 
+            Grid.Row="1"
+            CornerRadius="100"
+            >
+            <Image  Source="https://cdn0.iconfinder.com/data/icons/professional-avatar-5/48/manager_male_avatar_men_character_professions-512.png"></Image>
+        </Border>
+
+        <TextBlock 
+            Text="Andrii Riabii Sergiyovich"
+            Foreground="Gray"
+            Grid.Column="0"
+            Grid.Row="2"
+            Grid.ColumnSpan="3"
+            FontSize="35"
+             VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            ></TextBlock>
+
+
+        <TextBlock 
+            Text="Developer\Teacher"
+            Foreground="Gray"
+            Grid.Column="1"
+            Grid.Row="3"
+            FontSize="20"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center" 
+            ></TextBlock>
+
+
+        <TextBlock 
+            Text="+ 38 (095) 41 66 765"
+            Foreground="Gray"
+            Grid.Column="1"
+            Grid.Row="4"
+            FontSize="20"
+             VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            ></TextBlock>
+
+
+        <TextBlock 
+            Text="cuanid236316@gmail.com"
+            Foreground="Gray"
+            Grid.Column="0"
+            Grid.Row="5"
+            Grid.ColumnSpan="3"
+            FontSize="20"
+             VerticalAlignment="Center"
+            HorizontalAlignment="Center" Margin="66,3,66,2"
+            ></TextBlock>
+    </Grid>
+</Window>

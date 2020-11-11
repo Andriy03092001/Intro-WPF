@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\HP\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\HP\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp_MarkupCompile.cache
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp_MarkupCompile.lref
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.g.resources
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\HP\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

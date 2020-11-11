@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\FirstApp\CartInfo\bin\Debug\CartInfo.exe.config
+C:\Users\HP\Desktop\FirstApp\CartInfo\bin\Debug\CartInfo.exe
+C:\Users\HP\Desktop\FirstApp\CartInfo\bin\Debug\CartInfo.pdb
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\CartInfo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\CartInfo_MarkupCompile.cache
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\CartInfo_MarkupCompile.lref
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\CartInfo.g.resources
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\CartInfo.Properties.Resources.resources
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\CartInfo.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\CartInfo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\CartInfo.exe
+C:\Users\HP\Desktop\FirstApp\CartInfo\obj\Debug\CartInfo.pdb
